@@ -1,0 +1,17 @@
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day5\GDISolution\PaintBrush\bin\Debug\net7.0-windows\PaintBrush.exe
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day5\GDISolution\PaintBrush\bin\Debug\net7.0-windows\PaintBrush.deps.json
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day5\GDISolution\PaintBrush\bin\Debug\net7.0-windows\PaintBrush.runtimeconfig.json
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day5\GDISolution\PaintBrush\bin\Debug\net7.0-windows\PaintBrush.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day5\GDISolution\PaintBrush\bin\Debug\net7.0-windows\PaintBrush.pdb
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day5\GDISolution\PaintBrush\obj\Debug\net7.0-windows\PaintBrush.csproj.AssemblyReference.cache
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day5\GDISolution\PaintBrush\obj\Debug\net7.0-windows\PaintBrush.Form1.resources
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day5\GDISolution\PaintBrush\obj\Debug\net7.0-windows\PaintBrush.csproj.GenerateResource.cache
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day5\GDISolution\PaintBrush\obj\Debug\net7.0-windows\PaintBrush.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day5\GDISolution\PaintBrush\obj\Debug\net7.0-windows\PaintBrush.AssemblyInfoInputs.cache
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day5\GDISolution\PaintBrush\obj\Debug\net7.0-windows\PaintBrush.AssemblyInfo.cs
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day5\GDISolution\PaintBrush\obj\Debug\net7.0-windows\PaintBrush.csproj.CoreCompileInputs.cache
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day5\GDISolution\PaintBrush\obj\Debug\net7.0-windows\PaintBrush.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day5\GDISolution\PaintBrush\obj\Debug\net7.0-windows\refint\PaintBrush.dll
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day5\GDISolution\PaintBrush\obj\Debug\net7.0-windows\PaintBrush.pdb
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day5\GDISolution\PaintBrush\obj\Debug\net7.0-windows\PaintBrush.genruntimeconfig.cache
+D:\Ravi\CDAC\PGDAC\IACSD\Sept23\Day5\GDISolution\PaintBrush\obj\Debug\net7.0-windows\ref\PaintBrush.dll

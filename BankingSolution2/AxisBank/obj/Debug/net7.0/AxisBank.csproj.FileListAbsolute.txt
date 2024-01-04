@@ -1,0 +1,14 @@
+F:\DotNet\Day5\BankingSolution2\AxisBank\bin\Debug\net7.0\AxisBank.exe
+F:\DotNet\Day5\BankingSolution2\AxisBank\bin\Debug\net7.0\AxisBank.deps.json
+F:\DotNet\Day5\BankingSolution2\AxisBank\bin\Debug\net7.0\AxisBank.runtimeconfig.json
+F:\DotNet\Day5\BankingSolution2\AxisBank\bin\Debug\net7.0\AxisBank.dll
+F:\DotNet\Day5\BankingSolution2\AxisBank\bin\Debug\net7.0\AxisBank.pdb
+F:\DotNet\Day5\BankingSolution2\AxisBank\obj\Debug\net7.0\AxisBank.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNet\Day5\BankingSolution2\AxisBank\obj\Debug\net7.0\AxisBank.AssemblyInfoInputs.cache
+F:\DotNet\Day5\BankingSolution2\AxisBank\obj\Debug\net7.0\AxisBank.AssemblyInfo.cs
+F:\DotNet\Day5\BankingSolution2\AxisBank\obj\Debug\net7.0\AxisBank.csproj.CoreCompileInputs.cache
+F:\DotNet\Day5\BankingSolution2\AxisBank\obj\Debug\net7.0\AxisBank.dll
+F:\DotNet\Day5\BankingSolution2\AxisBank\obj\Debug\net7.0\refint\AxisBank.dll
+F:\DotNet\Day5\BankingSolution2\AxisBank\obj\Debug\net7.0\AxisBank.pdb
+F:\DotNet\Day5\BankingSolution2\AxisBank\obj\Debug\net7.0\AxisBank.genruntimeconfig.cache
+F:\DotNet\Day5\BankingSolution2\AxisBank\obj\Debug\net7.0\ref\AxisBank.dll
