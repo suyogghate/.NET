@@ -1,0 +1,14 @@
+F:\DotNet\Day3\CollectionSolution\CollectionApp\bin\Debug\net7.0\CollectionApp.exe
+F:\DotNet\Day3\CollectionSolution\CollectionApp\bin\Debug\net7.0\CollectionApp.deps.json
+F:\DotNet\Day3\CollectionSolution\CollectionApp\bin\Debug\net7.0\CollectionApp.runtimeconfig.json
+F:\DotNet\Day3\CollectionSolution\CollectionApp\bin\Debug\net7.0\CollectionApp.dll
+F:\DotNet\Day3\CollectionSolution\CollectionApp\bin\Debug\net7.0\CollectionApp.pdb
+F:\DotNet\Day3\CollectionSolution\CollectionApp\obj\Debug\net7.0\CollectionApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNet\Day3\CollectionSolution\CollectionApp\obj\Debug\net7.0\CollectionApp.AssemblyInfoInputs.cache
+F:\DotNet\Day3\CollectionSolution\CollectionApp\obj\Debug\net7.0\CollectionApp.AssemblyInfo.cs
+F:\DotNet\Day3\CollectionSolution\CollectionApp\obj\Debug\net7.0\CollectionApp.csproj.CoreCompileInputs.cache
+F:\DotNet\Day3\CollectionSolution\CollectionApp\obj\Debug\net7.0\CollectionApp.dll
+F:\DotNet\Day3\CollectionSolution\CollectionApp\obj\Debug\net7.0\refint\CollectionApp.dll
+F:\DotNet\Day3\CollectionSolution\CollectionApp\obj\Debug\net7.0\CollectionApp.pdb
+F:\DotNet\Day3\CollectionSolution\CollectionApp\obj\Debug\net7.0\CollectionApp.genruntimeconfig.cache
+F:\DotNet\Day3\CollectionSolution\CollectionApp\obj\Debug\net7.0\ref\CollectionApp.dll

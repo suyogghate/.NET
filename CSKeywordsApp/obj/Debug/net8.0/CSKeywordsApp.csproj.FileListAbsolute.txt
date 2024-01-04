@@ -1,0 +1,14 @@
+D:\DotNet\ECommerceSolution\CSKeywordsApp\bin\Debug\net8.0\CSKeywordsApp.exe
+D:\DotNet\ECommerceSolution\CSKeywordsApp\bin\Debug\net8.0\CSKeywordsApp.deps.json
+D:\DotNet\ECommerceSolution\CSKeywordsApp\bin\Debug\net8.0\CSKeywordsApp.runtimeconfig.json
+D:\DotNet\ECommerceSolution\CSKeywordsApp\bin\Debug\net8.0\CSKeywordsApp.dll
+D:\DotNet\ECommerceSolution\CSKeywordsApp\bin\Debug\net8.0\CSKeywordsApp.pdb
+D:\DotNet\ECommerceSolution\CSKeywordsApp\obj\Debug\net8.0\CSKeywordsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\ECommerceSolution\CSKeywordsApp\obj\Debug\net8.0\CSKeywordsApp.AssemblyInfoInputs.cache
+D:\DotNet\ECommerceSolution\CSKeywordsApp\obj\Debug\net8.0\CSKeywordsApp.AssemblyInfo.cs
+D:\DotNet\ECommerceSolution\CSKeywordsApp\obj\Debug\net8.0\CSKeywordsApp.csproj.CoreCompileInputs.cache
+D:\DotNet\ECommerceSolution\CSKeywordsApp\obj\Debug\net8.0\CSKeywordsApp.dll
+D:\DotNet\ECommerceSolution\CSKeywordsApp\obj\Debug\net8.0\refint\CSKeywordsApp.dll
+D:\DotNet\ECommerceSolution\CSKeywordsApp\obj\Debug\net8.0\CSKeywordsApp.pdb
+D:\DotNet\ECommerceSolution\CSKeywordsApp\obj\Debug\net8.0\CSKeywordsApp.genruntimeconfig.cache
+D:\DotNet\ECommerceSolution\CSKeywordsApp\obj\Debug\net8.0\ref\CSKeywordsApp.dll

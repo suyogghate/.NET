@@ -1,0 +1,14 @@
+F:\DotNet\HRSolution\HRAPP\bin\Debug\net7.0\HRAPP.exe
+F:\DotNet\HRSolution\HRAPP\bin\Debug\net7.0\HRAPP.deps.json
+F:\DotNet\HRSolution\HRAPP\bin\Debug\net7.0\HRAPP.runtimeconfig.json
+F:\DotNet\HRSolution\HRAPP\bin\Debug\net7.0\HRAPP.dll
+F:\DotNet\HRSolution\HRAPP\bin\Debug\net7.0\HRAPP.pdb
+F:\DotNet\HRSolution\HRAPP\obj\Debug\net7.0\HRAPP.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNet\HRSolution\HRAPP\obj\Debug\net7.0\HRAPP.AssemblyInfoInputs.cache
+F:\DotNet\HRSolution\HRAPP\obj\Debug\net7.0\HRAPP.AssemblyInfo.cs
+F:\DotNet\HRSolution\HRAPP\obj\Debug\net7.0\HRAPP.csproj.CoreCompileInputs.cache
+F:\DotNet\HRSolution\HRAPP\obj\Debug\net7.0\HRAPP.dll
+F:\DotNet\HRSolution\HRAPP\obj\Debug\net7.0\refint\HRAPP.dll
+F:\DotNet\HRSolution\HRAPP\obj\Debug\net7.0\HRAPP.pdb
+F:\DotNet\HRSolution\HRAPP\obj\Debug\net7.0\HRAPP.genruntimeconfig.cache
+F:\DotNet\HRSolution\HRAPP\obj\Debug\net7.0\ref\HRAPP.dll

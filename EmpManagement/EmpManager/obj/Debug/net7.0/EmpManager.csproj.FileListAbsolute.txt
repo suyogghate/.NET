@@ -1,0 +1,14 @@
+F:\DotNet\EmpManagement\EmpManager\bin\Debug\net7.0\EmpManager.exe
+F:\DotNet\EmpManagement\EmpManager\bin\Debug\net7.0\EmpManager.deps.json
+F:\DotNet\EmpManagement\EmpManager\bin\Debug\net7.0\EmpManager.runtimeconfig.json
+F:\DotNet\EmpManagement\EmpManager\bin\Debug\net7.0\EmpManager.dll
+F:\DotNet\EmpManagement\EmpManager\bin\Debug\net7.0\EmpManager.pdb
+F:\DotNet\EmpManagement\EmpManager\obj\Debug\net7.0\EmpManager.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNet\EmpManagement\EmpManager\obj\Debug\net7.0\EmpManager.AssemblyInfoInputs.cache
+F:\DotNet\EmpManagement\EmpManager\obj\Debug\net7.0\EmpManager.AssemblyInfo.cs
+F:\DotNet\EmpManagement\EmpManager\obj\Debug\net7.0\EmpManager.csproj.CoreCompileInputs.cache
+F:\DotNet\EmpManagement\EmpManager\obj\Debug\net7.0\EmpManager.dll
+F:\DotNet\EmpManagement\EmpManager\obj\Debug\net7.0\refint\EmpManager.dll
+F:\DotNet\EmpManagement\EmpManager\obj\Debug\net7.0\EmpManager.pdb
+F:\DotNet\EmpManagement\EmpManager\obj\Debug\net7.0\EmpManager.genruntimeconfig.cache
+F:\DotNet\EmpManagement\EmpManager\obj\Debug\net7.0\ref\EmpManager.dll
