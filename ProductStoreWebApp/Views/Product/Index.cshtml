@@ -1,0 +1,11 @@
+@using ProductStoreWebApp.Models;
+
+<h1>Products List</h1>
+<hr/>
+
+@{
+List<Product> products1=(List<Product>)ViewData["products"];
+    foreach(Product prod in products1){
+        <p>@prod.Title</p>
+    }
+}
