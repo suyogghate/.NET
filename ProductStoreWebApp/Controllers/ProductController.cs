@@ -27,4 +27,8 @@ public class ProductController : Controller
         Product prd = _svc.GetById(id);
         return View(prd);
     }
+    [HttpGet]
+     public IActionResult AddProduct(){
+        return View();
+    }
 }
