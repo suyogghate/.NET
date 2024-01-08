@@ -17,4 +17,14 @@ public class ProductController : Controller
         ViewData["products"]=products;
         return View();
     }
+
+    public IActionResult List(){
+        List<Product> products = _svc.GetAll();
+        return View(products);
+    }
+
+    public IActionResult Details(int id){
+        Product prd = _svc.GetById(id);
+        return View(prd);
+    }
 }
