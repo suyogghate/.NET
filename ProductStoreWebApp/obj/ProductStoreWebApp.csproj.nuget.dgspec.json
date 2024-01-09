@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "F:\\DotNet\\.NET\\ProductStoreWebApp\\ProductStoreWebApp.csproj": {}
   },
   "projects": {
@@ -12,9 +13,26 @@
         "projectPath": "F:\\DotNet\\.NET\\ProductStoreWebApp\\ProductStoreWebApp.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
         "outputPath": "F:\\DotNet\\.NET\\ProductStoreWebApp\\obj\\",
+=======
+    "D:\\DotNet\\.NET\\ProductStoreWebApp\\ProductStoreWebApp.csproj": {}
+  },
+  "projects": {
+    "D:\\DotNet\\.NET\\ProductStoreWebApp\\ProductStoreWebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DotNet\\.NET\\ProductStoreWebApp\\ProductStoreWebApp.csproj",
+        "projectName": "ProductStoreWebApp",
+        "projectPath": "D:\\DotNet\\.NET\\ProductStoreWebApp\\ProductStoreWebApp.csproj",
+        "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
+        "outputPath": "D:\\DotNet\\.NET\\ProductStoreWebApp\\obj\\",
+>>>>>>> 9842b514fe5424f8e129c01a0cf18609a490d19e
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +57,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Mysql.Data": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,12 @@
+@using ProductStoreWebApp.Models;
+
+<h1>Product List</h1>
+<hr/>
+@{
+    //List<Employee> employees=(List<Employee>)ViewData["employees"];
+    //List<Employee> employees=ViewBag.empList;
+    List<Product> products = Model;
+    foreach(Product p in products){
+        <p>@p.Id  @p.Title @p.UnitPrice @p.Quantity</p>
+    }
+}
