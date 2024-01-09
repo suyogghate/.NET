@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\DotNet\\ProductStoreWebApp\\ProductStoreWebApp.csproj": {}
+    "F:\\DotNet\\.NET\\ProductStoreWebApp\\ProductStoreWebApp.csproj": {}
   },
   "projects": {
-    "F:\\DotNet\\ProductStoreWebApp\\ProductStoreWebApp.csproj": {
+    "F:\\DotNet\\.NET\\ProductStoreWebApp\\ProductStoreWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\DotNet\\ProductStoreWebApp\\ProductStoreWebApp.csproj",
+        "projectUniqueName": "F:\\DotNet\\.NET\\ProductStoreWebApp\\ProductStoreWebApp.csproj",
         "projectName": "ProductStoreWebApp",
-        "projectPath": "F:\\DotNet\\ProductStoreWebApp\\ProductStoreWebApp.csproj",
+        "projectPath": "F:\\DotNet\\.NET\\ProductStoreWebApp\\ProductStoreWebApp.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "F:\\DotNet\\ProductStoreWebApp\\obj\\",
+        "outputPath": "F:\\DotNet\\.NET\\ProductStoreWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

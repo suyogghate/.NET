@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LdGKpq/ano35eL/9iSwMxGyZzNQNx/FuSxPs3uPUq2lI0qJqS6oCYz1/XkpHzfEpjNfmVfsFDSsnftdeVXW0Nw==",
+  "dgSpecHash": "OpCRHIQWE4NBA5t3TXckEQotcjG0epde1GV73NdM+APNuKInEKDtbPo7+z32xLSwBlXG6qWellMr49fbe1fm6w==",
   "success": true,
-  "projectFilePath": "F:\\DotNet\\ProductStoreWebApp\\ProductStoreWebApp.csproj",
+  "projectFilePath": "F:\\DotNet\\.NET\\ProductStoreWebApp\\ProductStoreWebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

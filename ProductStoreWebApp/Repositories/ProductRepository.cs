@@ -17,7 +17,7 @@ public class RepositoryManager{
    
          //Deserialize from JSON file
             string jsonString = File.ReadAllText(fileName);
-            List<Product> jsonProducts = JsonSerializer.Deserialize<List<Product>>(jsonString);
+            List<Product > jsonProducts = JsonSerializer.Deserialize<List<Product>>(jsonString);
            /* Console.WriteLine("\n JSON :Deserializing data from json file\n \n");
             foreach( Product emp in jsonProducts)
             {
