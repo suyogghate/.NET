@@ -9,57 +9,59 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProductStoreWebApp
 build_property.RootNamespace = ProductStoreWebApp
-build_property.ProjectDir = F:\DotNet\.NET\ProductStoreWebApp\
+build_property.ProjectDir = D:\DotNet\.NET\ProductStoreWebApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\DotNet\.NET\ProductStoreWebApp
+build_property.MSBuildProjectDirectory = D:\DotNet\.NET\ProductStoreWebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/DotNet/.NET/ProductStoreWebApp/Views/Auth/SignIn.cshtml]
+[D:/DotNet/.NET/ProductStoreWebApp/Views/Auth/SignIn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTaWduSW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/DotNet/.NET/ProductStoreWebApp/Views/Home/Index.cshtml]
+[D:/DotNet/.NET/ProductStoreWebApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/DotNet/.NET/ProductStoreWebApp/Views/Home/Privacy.cshtml]
+[D:/DotNet/.NET/ProductStoreWebApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/DotNet/.NET/ProductStoreWebApp/Views/Product/AddProduct.cshtml]
+[D:/DotNet/.NET/ProductStoreWebApp/Views/Product/AddProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBZGRQcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/DotNet/.NET/ProductStoreWebApp/Views/Product/Details.cshtml]
+[D:/DotNet/.NET/ProductStoreWebApp/Views/Product/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/DotNet/.NET/ProductStoreWebApp/Views/Product/Index.cshtml]
+[D:/DotNet/.NET/ProductStoreWebApp/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/DotNet/.NET/ProductStoreWebApp/Views/Product/List.cshtml]
+[D:/DotNet/.NET/ProductStoreWebApp/Views/Product/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/DotNet/.NET/ProductStoreWebApp/Views/Shared/Error.cshtml]
+[D:/DotNet/.NET/ProductStoreWebApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/DotNet/.NET/ProductStoreWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/DotNet/.NET/ProductStoreWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/DotNet/.NET/ProductStoreWebApp/Views/_ViewImports.cshtml]
+[D:/DotNet/.NET/ProductStoreWebApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/DotNet/.NET/ProductStoreWebApp/Views/_ViewStart.cshtml]
+[D:/DotNet/.NET/ProductStoreWebApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/DotNet/.NET/ProductStoreWebApp/Views/Shared/_Layout.cshtml]
+[D:/DotNet/.NET/ProductStoreWebApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-jq9bf3ujtq

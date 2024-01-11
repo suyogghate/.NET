@@ -60,40 +60,6 @@ F:\DotNet\ProductStoreWebApp\obj\Debug\net7.0\ProductStoreWebApp.pdb
 F:\DotNet\ProductStoreWebApp\obj\Debug\net7.0\ProductStoreWebApp.genruntimeconfig.cache
 F:\DotNet\ProductStoreWebApp\obj\Debug\net7.0\ref\ProductStoreWebApp.dll
 F:\DotNet\ProductStoreWebApp\bin\Debug\net7.0\customer.json
-<<<<<<< HEAD
-F:\DotNet\.NET\ProductStoreWebApp\bin\Debug\net7.0\appsettings.Development.json
-F:\DotNet\.NET\ProductStoreWebApp\bin\Debug\net7.0\appsettings.json
-F:\DotNet\.NET\ProductStoreWebApp\bin\Debug\net7.0\customer.json
-F:\DotNet\.NET\ProductStoreWebApp\bin\Debug\net7.0\products.json
-F:\DotNet\.NET\ProductStoreWebApp\bin\Debug\net7.0\ProductStoreWebApp.staticwebassets.runtime.json
-F:\DotNet\.NET\ProductStoreWebApp\bin\Debug\net7.0\ProductStoreWebApp.exe
-F:\DotNet\.NET\ProductStoreWebApp\bin\Debug\net7.0\ProductStoreWebApp.deps.json
-F:\DotNet\.NET\ProductStoreWebApp\bin\Debug\net7.0\ProductStoreWebApp.runtimeconfig.json
-F:\DotNet\.NET\ProductStoreWebApp\bin\Debug\net7.0\ProductStoreWebApp.dll
-F:\DotNet\.NET\ProductStoreWebApp\bin\Debug\net7.0\ProductStoreWebApp.pdb
-F:\DotNet\.NET\ProductStoreWebApp\obj\Debug\net7.0\ProductStoreWebApp.GeneratedMSBuildEditorConfig.editorconfig
-F:\DotNet\.NET\ProductStoreWebApp\obj\Debug\net7.0\ProductStoreWebApp.AssemblyInfoInputs.cache
-F:\DotNet\.NET\ProductStoreWebApp\obj\Debug\net7.0\ProductStoreWebApp.AssemblyInfo.cs
-F:\DotNet\.NET\ProductStoreWebApp\obj\Debug\net7.0\ProductStoreWebApp.csproj.CoreCompileInputs.cache
-F:\DotNet\.NET\ProductStoreWebApp\obj\Debug\net7.0\ProductStoreWebApp.MvcApplicationPartsAssemblyInfo.cache
-F:\DotNet\.NET\ProductStoreWebApp\obj\Debug\net7.0\ProductStoreWebApp.RazorAssemblyInfo.cache
-F:\DotNet\.NET\ProductStoreWebApp\obj\Debug\net7.0\ProductStoreWebApp.RazorAssemblyInfo.cs
-F:\DotNet\.NET\ProductStoreWebApp\obj\Debug\net7.0\staticwebassets\msbuild.ProductStoreWebApp.Microsoft.AspNetCore.StaticWebAssets.props
-F:\DotNet\.NET\ProductStoreWebApp\obj\Debug\net7.0\staticwebassets\msbuild.build.ProductStoreWebApp.props
-F:\DotNet\.NET\ProductStoreWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ProductStoreWebApp.props
-F:\DotNet\.NET\ProductStoreWebApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ProductStoreWebApp.props
-F:\DotNet\.NET\ProductStoreWebApp\obj\Debug\net7.0\staticwebassets.pack.json
-F:\DotNet\.NET\ProductStoreWebApp\obj\Debug\net7.0\staticwebassets.build.json
-F:\DotNet\.NET\ProductStoreWebApp\obj\Debug\net7.0\staticwebassets.development.json
-F:\DotNet\.NET\ProductStoreWebApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-F:\DotNet\.NET\ProductStoreWebApp\obj\Debug\net7.0\scopedcss\bundle\ProductStoreWebApp.styles.css
-F:\DotNet\.NET\ProductStoreWebApp\obj\Debug\net7.0\scopedcss\projectbundle\ProductStoreWebApp.bundle.scp.css
-F:\DotNet\.NET\ProductStoreWebApp\obj\Debug\net7.0\ProductStoreWebApp.dll
-F:\DotNet\.NET\ProductStoreWebApp\obj\Debug\net7.0\refint\ProductStoreWebApp.dll
-F:\DotNet\.NET\ProductStoreWebApp\obj\Debug\net7.0\ProductStoreWebApp.pdb
-F:\DotNet\.NET\ProductStoreWebApp\obj\Debug\net7.0\ProductStoreWebApp.genruntimeconfig.cache
-F:\DotNet\.NET\ProductStoreWebApp\obj\Debug\net7.0\ref\ProductStoreWebApp.dll
-=======
 D:\DotNet\.NET\ProductStoreWebApp\obj\Debug\net7.0\ProductStoreWebApp.csproj.AssemblyReference.cache
 D:\DotNet\.NET\ProductStoreWebApp\obj\Debug\net7.0\ProductStoreWebApp.GeneratedMSBuildEditorConfig.editorconfig
 D:\DotNet\.NET\ProductStoreWebApp\obj\Debug\net7.0\ProductStoreWebApp.AssemblyInfoInputs.cache
@@ -152,4 +118,3 @@ D:\DotNet\.NET\ProductStoreWebApp\obj\Debug\net7.0\scopedcss\projectbundle\Produ
 D:\DotNet\.NET\ProductStoreWebApp\obj\Debug\net7.0\ProductStoreWebApp.csproj.CopyComplete
 D:\DotNet\.NET\ProductStoreWebApp\obj\Debug\net7.0\ProductStoreWebApp.genruntimeconfig.cache
 D:\DotNet\.NET\ProductStoreWebApp\obj\Debug\net7.0\ref\ProductStoreWebApp.dll
->>>>>>> 9842b514fe5424f8e129c01a0cf18609a490d19e

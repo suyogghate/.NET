@@ -31,4 +31,15 @@ public class ProductController : Controller
      public IActionResult AddProduct(){
         return View();
     }
+
+    [HttpPost]
+    public IActionResult AddProduct(Product p){
+        Console.WriteLine(p.Id+" "+p.Title);
+        if(p != null && ModelState.IsValid){
+            bool status = _svc.Insert(p);
+            Console.WriteLine(status);
+            return RedirectToAction("Index");
+        }
+        return View(p);
+    }
 }

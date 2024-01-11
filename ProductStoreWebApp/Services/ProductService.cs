@@ -22,7 +22,12 @@ public class ProductService:IProductService{
       Product p = mgr.GetById(id);
       return p;
     }
-    public void Insert(Product emp){}
+    public bool Insert(Product p){
+      MySqlDBManager mgr = new MySqlDBManager();
+      bool status = mgr.InsertProduct(p);
+      // Console.WriteLine(status);
+      return status;
+    }
      public void Update(Product emp){}
      public void Delete(int id){
 

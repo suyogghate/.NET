@@ -1,19 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "F:\\DotNet\\.NET\\ProductStoreWebApp\\ProductStoreWebApp.csproj": {}
-  },
-  "projects": {
-    "F:\\DotNet\\.NET\\ProductStoreWebApp\\ProductStoreWebApp.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "F:\\DotNet\\.NET\\ProductStoreWebApp\\ProductStoreWebApp.csproj",
-        "projectName": "ProductStoreWebApp",
-        "projectPath": "F:\\DotNet\\.NET\\ProductStoreWebApp\\ProductStoreWebApp.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "F:\\DotNet\\.NET\\ProductStoreWebApp\\obj\\",
-=======
     "D:\\DotNet\\.NET\\ProductStoreWebApp\\ProductStoreWebApp.csproj": {}
   },
   "projects": {
@@ -25,7 +12,6 @@
         "projectPath": "D:\\DotNet\\.NET\\ProductStoreWebApp\\ProductStoreWebApp.csproj",
         "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
         "outputPath": "D:\\DotNet\\.NET\\ProductStoreWebApp\\obj\\",
->>>>>>> 9842b514fe5424f8e129c01a0cf18609a490d19e
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

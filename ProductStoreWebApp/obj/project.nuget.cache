@@ -1,11 +1,5 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "OpCRHIQWE4NBA5t3TXckEQotcjG0epde1GV73NdM+APNuKInEKDtbPo7+z32xLSwBlXG6qWellMr49fbe1fm6w==",
-  "success": true,
-  "projectFilePath": "F:\\DotNet\\.NET\\ProductStoreWebApp\\ProductStoreWebApp.csproj",
-  "expectedPackageFiles": [],
-=======
   "dgSpecHash": "96W9iO0mDtlcCz5GCSIubEn0xfd/VYcfPhFgvf3CJHhVhUk5L5bPAnlHXXIAlRTf1YkYXJyT/grKlVOnOwNXvA==",
   "success": true,
   "projectFilePath": "D:\\DotNet\\.NET\\ProductStoreWebApp\\ProductStoreWebApp.csproj",
@@ -43,6 +37,5 @@
     "C:\\Users\\dac\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
     "C:\\Users\\dac\\.nuget\\packages\\zstdsharp.port\\0.7.1\\zstdsharp.port.0.7.1.nupkg.sha512"
   ],
->>>>>>> 9842b514fe5424f8e129c01a0cf18609a490d19e
   "logs": []
 }
