@@ -1,0 +1,269 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.js"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\tailwind\\base.css",
+      "PackagePath": "staticwebassets\\lib\\tailwind\\base.css"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\tailwind\\base.min.css",
+      "PackagePath": "staticwebassets\\lib\\tailwind\\base.min.css"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\tailwind\\components.css",
+      "PackagePath": "staticwebassets\\lib\\tailwind\\components.css"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\tailwind\\components.min.css",
+      "PackagePath": "staticwebassets\\lib\\tailwind\\components.min.css"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\tailwind\\tailwind-dark.css",
+      "PackagePath": "staticwebassets\\lib\\tailwind\\tailwind-dark.css"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\tailwind\\tailwind-dark.min.css",
+      "PackagePath": "staticwebassets\\lib\\tailwind\\tailwind-dark.min.css"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\tailwind\\tailwind-experimental.css",
+      "PackagePath": "staticwebassets\\lib\\tailwind\\tailwind-experimental.css"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\tailwind\\tailwind-experimental.min.css",
+      "PackagePath": "staticwebassets\\lib\\tailwind\\tailwind-experimental.min.css"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\tailwind\\tailwind.css",
+      "PackagePath": "staticwebassets\\lib\\tailwind\\tailwind.css"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\tailwind\\tailwind.min.css",
+      "PackagePath": "staticwebassets\\lib\\tailwind\\tailwind.min.css"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\tailwind\\utilities.css",
+      "PackagePath": "staticwebassets\\lib\\tailwind\\utilities.css"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\tailwind\\utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\tailwind\\utilities.min.css"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\DotNet\\InstallingBootstrap\\InstallingBootstrap\\wwwroot\\lib\\twitter-bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\twitter-bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.InstallingBootstrap.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.InstallingBootstrap.props",
+      "PackagePath": "build\\InstallingBootstrap.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.InstallingBootstrap.props",
+      "PackagePath": "buildMultiTargeting\\InstallingBootstrap.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.InstallingBootstrap.props",
+      "PackagePath": "buildTransitive\\InstallingBootstrap.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

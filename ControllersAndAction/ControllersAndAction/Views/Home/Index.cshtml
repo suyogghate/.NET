@@ -1,0 +1,72 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = null;
+}
+
+<h1>Index Page</h1>
+<p>This is my Home Page.</p>
+
+@* @ViewBag.myName
+<br />
+@ViewData["data6"]
+<br /> *@
+
+@* @ViewData["data1"]
+<br />
+@ViewData["data2"]
+<br />
+@ViewData["data3"]
+
+@{
+    foreach(var item in (string[])ViewData["data4"])
+    {
+        <h2>@item</h2>
+    }
+}
+
+@{
+    foreach(var item in (List<string>)ViewData["data5"])
+    {
+        <h3>@item</h3>
+    }
+} *@
+
+@* ViewBag *@
+@* @ViewBag.data1
+<br />
+@ViewBag.data2
+<br />
+@ViewBag.data3
+
+@{
+    foreach(var item in ViewBag.data4)
+    {
+        <h2>@item</h2>        
+    }
+}
+
+@{
+    foreach(var item in ViewBag.data5)
+    {
+        <h2>@item</h2>        
+    }
+} *@
+
+@*TempData*@
+@ViewData["data1"]
+@ViewBag.data2
+@TempData["data3"]
+
+@* @{
+    if(TempData["data4"] != null)
+    {
+        foreach (var item in (List<string>)TempData["data4"])
+        {
+            <h2>@item</h2>
+        }
+    }
+    else
+    {
+        <h1>No data found!!</h1>
+    }
+} *@
