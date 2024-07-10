@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CodeFirstEF
 build_property.RootNamespace = CodeFirstEF
-build_property.ProjectDir = F:\DotNet\CodeFirstEF\CodeFirstEF\
+build_property.ProjectDir = F:\DotNet\.NET\CodeFirstEF\CodeFirstEF\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\DotNet\CodeFirstEF\CodeFirstEF
+build_property.MSBuildProjectDirectory = F:\DotNet\.NET\CodeFirstEF\CodeFirstEF
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/DotNet/CodeFirstEF/CodeFirstEF/Views/Home/Create.cshtml]
+[F:/DotNet/.NET/CodeFirstEF/CodeFirstEF/Views/Home/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/DotNet/CodeFirstEF/CodeFirstEF/Views/Home/Delete.cshtml]
+[F:/DotNet/.NET/CodeFirstEF/CodeFirstEF/Views/Home/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/DotNet/CodeFirstEF/CodeFirstEF/Views/Home/Details.cshtml]
+[F:/DotNet/.NET/CodeFirstEF/CodeFirstEF/Views/Home/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/DotNet/CodeFirstEF/CodeFirstEF/Views/Home/Edit.cshtml]
+[F:/DotNet/.NET/CodeFirstEF/CodeFirstEF/Views/Home/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/DotNet/CodeFirstEF/CodeFirstEF/Views/Home/Index.cshtml]
+[F:/DotNet/.NET/CodeFirstEF/CodeFirstEF/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/DotNet/CodeFirstEF/CodeFirstEF/Views/Home/Privacy.cshtml]
+[F:/DotNet/.NET/CodeFirstEF/CodeFirstEF/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/DotNet/CodeFirstEF/CodeFirstEF/Views/Shared/Error.cshtml]
+[F:/DotNet/.NET/CodeFirstEF/CodeFirstEF/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/DotNet/CodeFirstEF/CodeFirstEF/Views/Shared/_ValidationScriptsPartial.cshtml]
+[F:/DotNet/.NET/CodeFirstEF/CodeFirstEF/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/DotNet/CodeFirstEF/CodeFirstEF/Views/_ViewImports.cshtml]
+[F:/DotNet/.NET/CodeFirstEF/CodeFirstEF/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/DotNet/CodeFirstEF/CodeFirstEF/Views/_ViewStart.cshtml]
+[F:/DotNet/.NET/CodeFirstEF/CodeFirstEF/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/DotNet/CodeFirstEF/CodeFirstEF/Views/Shared/_Layout.cshtml]
+[F:/DotNet/.NET/CodeFirstEF/CodeFirstEF/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-zqi1juqh0y

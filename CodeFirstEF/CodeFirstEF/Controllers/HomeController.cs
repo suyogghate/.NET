@@ -1,5 +1,6 @@
 ﻿using CodeFirstEF.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 
@@ -29,6 +30,14 @@ namespace CodeFirstEF.Controllers
         
         public IActionResult Create()
         {
+            List<SelectListItem> Gender = new()
+            {
+                new SelectListItem {Value = "Male", Text = "Male"},
+                new SelectListItem {Value = "Female", Text = "Female"},
+                new SelectListItem {Value = "Others", Text = "Others"},
+            };
+
+            ViewBag.Gender = Gender;
             return View();
         }
 
@@ -65,6 +74,15 @@ namespace CodeFirstEF.Controllers
 
         public async Task<IActionResult> Edit(int? id)
         {
+            List<SelectListItem> Gender = new()
+            {
+                new SelectListItem {Value = "Male", Text = "Male"},
+                new SelectListItem {Value = "Female", Text = "Female"},
+                new SelectListItem {Value = "Others", Text = "Others"},
+            };
+
+            ViewBag.Gender = Gender;
+
             if (id == null || studentDB.Students == null)
             {
                 return NotFound();

@@ -11298,11 +11298,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\DotNet\\CodeFirstEF\\CodeFirstEF\\CodeFirstEF.csproj",
+      "projectUniqueName": "F:\\DotNet\\.NET\\CodeFirstEF\\CodeFirstEF\\CodeFirstEF.csproj",
       "projectName": "CodeFirstEF",
-      "projectPath": "F:\\DotNet\\CodeFirstEF\\CodeFirstEF\\CodeFirstEF.csproj",
+      "projectPath": "F:\\DotNet\\.NET\\CodeFirstEF\\CodeFirstEF\\CodeFirstEF.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "F:\\DotNet\\CodeFirstEF\\CodeFirstEF\\obj\\",
+      "outputPath": "F:\\DotNet\\.NET\\CodeFirstEF\\CodeFirstEF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
